@@ -20,7 +20,9 @@
 
 // const balance=1000
 // // if(balance> 500) console.log("test"),
-// // console.log("test2")
+// // console.log("test2")\
+
+// // if(balance> 500) console.log("test");
 
 // if(balance< 500){
 //     console.log("less than 500");
