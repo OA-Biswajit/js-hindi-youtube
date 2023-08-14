@@ -13,4 +13,4 @@ One()
 Two()
 Three()
 
-// This is how call stack works. By debugging you can understant clearly
+// This is how call stack works. By debugging in brouser snippet you can understant clearly
